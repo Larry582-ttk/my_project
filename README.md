@@ -165,6 +165,8 @@ helmet_detection/
 `PyTorch`, `torchvision`, `ONNX`, `NumPy`
 
 ---
+**Acknowledgments:** This is a learning/reproduction project. The code implementation references [xiaotudui](https://github.com/xiaotudui/tudui-object-detection-model)'s YOLO tutorial (MIT License). Special thanks to the original author.
+
 
 ## Project 3: LSTM Traffic Flow Prediction
 
