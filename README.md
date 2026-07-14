@@ -11,7 +11,7 @@
 
 Hi, I'm Larry. I'm an undergraduate student in Surveying at City University of Hong Kong, currently self-studying machine learning and deep learning. My projects focus on data-driven applications in construction safety, urban monitoring, infrastructure management, and related scenarios, which are areas I plan to further explore during my master's studies (in Digital Construction / Smart City / Geospatial Data Science).
 
-> **Disclaimer:** This repository is for personal learning and portfolio demonstration purposes. During learning, I referred to public tutorials, official documentation, and community blogs. Some code logic references online resources. All datasets used are obtained through open-source channels. The project code is for learning and exchange purposes only.
+> **Disclaimer:** This project is for personal learning and portfolio demonstration purposes only. The code implementation references public tutorials, official documentation, community blogs, and AI-assisted tools. All datasets used are obtained through open-source channels. The project code is for educational and non-commercial use only.
 
 ---
 
