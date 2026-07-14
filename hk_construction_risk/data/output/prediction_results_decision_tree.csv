@@ -1,0 +1,47 @@
+﻿titles,prediction_labels,prediction_types
+Fall from Wooden Folding Ladder,1,Fall from Height
+Struck to Fall off Mobile Elevating Work Platform by Detached I-beam,2,Struck by Falling Object
+Struck by Slewing Excavator,2,Struck by Falling Object
+Fall from Height while Erecting Bamboo Scaffold,1,Fall from Height
+Fall from Metal Canopy,1,Fall from Height
+Fall from Tail Lift of Lorry,1,Fall from Height
+Fall from Stair Landing during Flame Cutting Work,5,Electrocution
+Struck by Collapsed Portal,2,Struck by Falling Object
+Trapped by Lift Car inside Lift Shaft,4,Trapped / crushed / caught / collapse
+Drowned in Water for Seepage Test,1,Fall from Height
+Struck by Maintenance Train,3,Struck by vehicle / moving object
+Fall from Concrete Slab,8,Drowning
+Trapped between Crawler-mounted Crane and Metal Railing,6,Exposure to harmful substance / asphyxiation / poisoning
+Run Over by Container Truck,4,Trapped / crushed / caught / collapse
+Gashed by Electric Chainsaw,3,Struck by vehicle / moving object
+Entangled with revolving drill bit of concrete coring machine,0,Others
+Pressed by Toppled Gypsum Boards,4,Trapped / crushed / caught / collapse
+Pressed by Collapsed Brick Wall,1,Fall from Height
+Fall from Bamboo Scaffold,1,Fall from Height
+Struck by Hard Object Ejecting from Excavator,3,Struck by vehicle / moving object
+Struck by Wire Rope Clamp inside Lift Shaft,1,Fall from Height
+Fall from Deck of Steel Car Ramp,1,Fall from Height
+Works on Catchwater Slope,4,Trapped / crushed / caught / collapse
+Building Renovation Works,1,Fall from Height
+Erection of Truss-out Bamboo Scaffolds,0,Others
+Collapse of Reinforcement Cage of Bored Pile under Fabrication,1,Fall from Height
+Vehicle Repairing Work,6,Exposure to harmful substance / asphyxiation / poisoning
+Induced Draft Fan Repairing Work,5,Electrocution
+Air-Conditioner Repairing Work,3,Struck by vehicle / moving object
+Use of Electric Arc Welding Equipment,0,Others
+Working inside an Underground Tunnel,4,Trapped / crushed / caught / collapse
+Worker Killed by Falling on a Protruding Steel Rebar,4,Trapped / crushed / caught / collapse
+Fall from Height while Conducting a Material Hoist Erection / Alteration Works,1,Fall from Height
+Electrical Repairing Work,4,Trapped / crushed / caught / collapse
+Water Pipe Laying Works,6,Exposure to harmful substance / asphyxiation / poisoning
+Lifting Operations,0,Others
+Use of Portable Ladders,0,Others
+Fall from Podium Edge,3,Struck by vehicle / moving object
+Slewing / Travelling Motion of Mobile Crane,4,Trapped / crushed / caught / collapse
+Trapped between Mobile Elevating Work Platform and Partition Wall,3,Struck by vehicle / moving object
+Struck by falling gas cylinders,2,Struck by Falling Object
+Trapped between Water Tank and Bored Pile Casing,4,Trapped / crushed / caught / collapse
+Fall from Truss-out Bamboo Scaffold,1,Fall from Height
+Collapse of a Tower Crane,4,Trapped / crushed / caught / collapse
+Fall from Folding Ladder,1,Fall from Height
+Pressed by Toppled Precast Concrete Block,1,Fall from Height

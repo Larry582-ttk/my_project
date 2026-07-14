@@ -1,0 +1,20 @@
+# ===== 通用依赖 =====
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+
+# ===== 项目 1：hk_construction_risk =====
+requests
+beautifulsoup4
+sentence-transformers
+
+# ===== 项目 2：helmet_detection =====
+torch
+torchvision
+onnx
+xmltodict
+
+# ===== 项目 3：lstm =====
+# （torch 已在上面包含，无需重复）
