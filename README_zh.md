@@ -164,8 +164,9 @@ helmet_detection/
 
 `PyTorch`, `torchvision`, `ONNX`, `NumPy`
 
----
 **致谢：** 本项目代码实现参考了 [小土堆（xiaotudui）](https://github.com/xiaotudui/tudui-object-detection-model) 的 YOLO 教程（MIT License），在此致谢。
+
+---
 
 ## 项目三：LSTM 交通流预测
 
