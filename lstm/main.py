@@ -63,7 +63,8 @@ for epoch in range(num_epochs):
 model.eval()
 with torch.no_grad():
     y_pred_t = model(x_test_t.to(device))
-
+    
+#还原为真实值
 y_pred = scaler_y.inverse_transform(y_pred_t.cpu().numpy())
 y_true = scaler_y.inverse_transform(y_test_t.numpy())
 
