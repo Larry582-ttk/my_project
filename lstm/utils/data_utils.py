@@ -39,7 +39,7 @@ def load_and_prepare_data(npz_path, node_id=1, history_size=12, future_size=1, s
     scaler_x = StandardScaler()
     scaler_y = StandardScaler()
     #防止数据泄露
-    x_train = scaler_x.fit_transform(x_train.reshape(-1, 1)).reshape(-1, history_size, 1)
+    x_train = scaler_x.fit_transform(x_train.reshape(-1, 1)).reshape(-1, history_size, 1) #标准化
     x_test = scaler_x.transform(x_test.reshape(-1, 1)).reshape(-1, history_size, 1)
 
     y_train = scaler_y.fit_transform(y_train)
