@@ -117,7 +117,7 @@ for label, count in sorted(Counter(final_labels).items()):
 
 # 8. 训练逻辑回归
 print("\nTraining Logistic Regression...")
-clf = LogisticRegression(class_weight='balanced', max_iter=1000)
+clf = LogisticRegression(class_weight='balanced', max_iter=100)
 clf.fit(embeddings, final_labels)
 joblib.dump(clf, MODEL_SAVE_PATH)
 print(f"Model saved to {MODEL_SAVE_PATH}")
